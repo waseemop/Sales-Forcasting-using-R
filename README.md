@@ -1,0 +1,1 @@
+Implemented and compared ARIMA, ARMA, and Naive models to predict future sales trends. Analyzed historical sales data to capture seasonal and trend patterns, enhancing forecast accuracy. Generated visualizations of forecasted sales to effectively illustrate trend predictions.
